@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="photo_title">Still life of blue and other life</string>
+    <string name="photo_Artist_year">Artist (Year)</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
